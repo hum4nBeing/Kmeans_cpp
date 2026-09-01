@@ -1,5 +1,17 @@
 # K-means: Python vs C++ with pybind11
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pybind11](https://img.shields.io/badge/pybind11-2D6CC5?style=for-the-badge&logo=cpp&logoColor=white)
+
+</div>
+
 A compact performance-focused project that compares a pure Python k-means implementation against a compiled C++ implementation exposed through `pybind11`. The goal is to show how a numerical kernel can be moved from Python into native code while preserving a clean scientific Python workflow.
 
 ## Why this project exists
