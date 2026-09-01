@@ -138,8 +138,8 @@ This repo also contains a DBSCAN implementation alongside the k-means work. It i
 
 ## Contributors
 
-- [hum4nBeing/Kmeans_cpp](https://github.com/hum4nBeing/Kmeans_cpp)
 - [hum4nBeing](https://github.com/hum4nBeing)
+- [adarshsingh2951](https://github.com/adarshsingh2951)
 
 ## License
 
